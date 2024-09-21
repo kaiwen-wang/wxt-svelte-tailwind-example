@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* USED FOR DEBUGGING */
+/* * {
+  outline: 1px solid red;
+} */
