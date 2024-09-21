@@ -1,6 +1,9 @@
-# WXT + Svelte
+# WXT + Svelte + Tailwind
 
-This template should help get you started developing with Svelte in WXT.
+Tailwind + Svelte 4 + WXT boilerplate.
+
+Based on the WXT Svelte setup at https://wxt.dev/get-started/introduction.
+
 
 ## Recommended IDE Setup
 
